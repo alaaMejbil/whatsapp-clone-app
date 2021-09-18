@@ -8,17 +8,27 @@ Real time messaging with users.
 
 Groups with multiple users.
 
-URL sharing and preview.
+Sign in - SignUp - logout .
 
-Searching messages.
+linking with Firebase Authentication system.
 
-Adding and viewing contacts.
+client and backend validation during logging and register.
 
-Spamming and archiving messages.
+search by name of users.
+
+viewing profile page and able to edit info and upload images.
+
+check if the message is reading or not.
+
+
+
 
 
 ## Getting Started
-![ice_video_20210918-130705(1)](https://user-images.githubusercontent.com/42090580/133888121-4b1694b4-adc3-4d6f-bbb4-6af1c0db08dd.gif)
+
+![ice_video_20210918-130705_edit_0(2)](https://user-images.githubusercontent.com/42090580/133889353-8856c9a0-33b1-4218-a62c-eb5d36e29d0e.gif)
+
+
 
 This project is a starting point for a Flutter application.
 
