@@ -1,11 +1,17 @@
 # whatsapp-clone-app
 
-📱 App Features
+# 📱 App Features
+
 Real time messaging with users.
+
 Groups with multiple users.
+
 URL sharing and preview.
+
 Searching messages.
+
 Adding and viewing contacts.
+
 Spamming and archiving messages.
 
 
