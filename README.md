@@ -1,6 +1,13 @@
 # whatsapp-clone-app
 
-A new Flutter project.
+📱 App Features
+Real time messaging with users.
+Groups with multiple users.
+URL sharing and preview.
+Searching messages.
+Adding and viewing contacts.
+Spamming and archiving messages.
+
 
 ## Getting Started
 
