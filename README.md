@@ -16,3 +16,11 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 "# whatsapp-clone-app" 
 "# chat-app" 
+
+📱 App Features
+Real time messaging with users.
+Groups with multiple users.
+URL sharing and preview.
+Searching messages.
+Adding and viewing contacts.
+Spamming and archiving messages.
