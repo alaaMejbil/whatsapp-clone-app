@@ -1,4 +1,4 @@
-# notifiaction_app
+# whatsapp-clone-app
 
 A new Flutter project.
 
