@@ -1,5 +1,7 @@
 # whatsapp-clone-app
 
+A new open source Flutter project as a base for chat appilcation.
+
 # 📱 App Features
 
 Real time messaging with users.
