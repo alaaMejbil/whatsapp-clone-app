@@ -28,17 +28,17 @@ check if the message is reading or not.
 
 ![ice_video_20210918-130705_edit_0(5)](https://user-images.githubusercontent.com/42090580/133889966-612f9426-9356-4613-ba03-d55f39a9e737.gif)
 
-![chat5](https://user-images.githubusercontent.com/42090580/133892484-38417364-c460-4a6d-9a42-f5722d1920db.png)
+<img src="https://user-images.githubusercontent.com/42090580/133892484-38417364-c460-4a6d-9a42-f5722d1920db.png" width="400" height="700">
 
-![chat6](https://user-images.githubusercontent.com/42090580/133892490-fe61169a-0cec-4849-a7b0-7f1abd8877ab.png)
+<img src="https://user-images.githubusercontent.com/42090580/133892490-fe61169a-0cec-4849-a7b0-7f1abd8877ab.png" width="400" height="700">
 
-![chat1](https://user-images.githubusercontent.com/42090580/133892497-01d70521-e9c3-40ef-845e-eff3383594bb.png)
+<img src="https://user-images.githubusercontent.com/42090580/133892497-01d70521-e9c3-40ef-845e-eff3383594bb.png" width="400" height="700">
 
-![chat2](https://user-images.githubusercontent.com/42090580/133892498-df80219b-9a3d-4a84-bf0a-528207351317.png)
+<img src="https://user-images.githubusercontent.com/42090580/133892498-df80219b-9a3d-4a84-bf0a-528207351317.png" width="400" height="700">
 
-![chat3](https://user-images.githubusercontent.com/42090580/133892504-4ba4c3ca-b739-4a73-8eff-99a07c0dc5ef.png)
+<img src="https://user-images.githubusercontent.com/42090580/133892504-4ba4c3ca-b739-4a73-8eff-99a07c0dc5ef.png" width="400" height="700">
 
-![chat4](https://user-images.githubusercontent.com/42090580/133892506-035fc631-cc11-4df2-ac0f-61497bfdbc23.png)
+<img src="https://user-images.githubusercontent.com/42090580/133892506-035fc631-cc11-4df2-ac0f-61497bfdbc23.png" width="400" height="700">
 
 This project is a starting point for a Flutter application.
 
